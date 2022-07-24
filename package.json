@@ -47,9 +47,6 @@
     "@testing-library/user-event": "^7.1.2",
     "apollo": "^2.30.2"
   },
-  "engines": {
-    "node": "16.x"
-  },
   "main": "src/index.js",
   "author": "Raphael Terrier @R4ph-t",
   "license": "MIT"
